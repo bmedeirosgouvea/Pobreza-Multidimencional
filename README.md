@@ -48,6 +48,7 @@ source("pobreza_multidimensional.R")
 [![Distribuição das Privações](visualizacoes/grafico_indicadores.png)](visualizacoes/grafico_indicadores.png)
 
 
+
 ---
 
 ## 🙋‍♀️ Autora
