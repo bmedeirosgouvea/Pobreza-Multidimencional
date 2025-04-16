@@ -45,7 +45,8 @@ source("pobreza_multidimensional.R")
 
 ## 📈 Resultado
 
-![Distribuição das Privações](visualizacoes/grafico_indicadores.png)
+[![Distribuição das Privações](visualizacoes/grafico_indicadores.png)](visualizacoes/grafico_indicadores.png)
+
 
 ---
 
